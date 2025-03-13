@@ -188,6 +188,6 @@ MIT License
 
 
 ## Contact
-For support or inquiries, email us at **support@xylochat.com** or visit [Xylo.dev](https://xylo.dev).
+For support or inquiries, email us at **support@xylochat.com** or visit [Xylo](https://xylotech.in).
 
   
